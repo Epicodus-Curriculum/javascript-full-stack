@@ -3,7 +3,7 @@ Before the first week of class, take time to ensure all necessary tools and fram
 The JavaScript course will require `Node.js`. You are expected to install any tools you do not already have _before_ the course begins. Confirm each tool is functioning properly by following all instructions below.
 
 ## OSX Installation Instructions
-<hr>
+<hr />
 
 On OS X systems, install `Node.js` through `Homebrew` with the following command in your home directory:
 
@@ -51,7 +51,7 @@ $ echo 'export PATH=/usr/local/bin:$PATH' >> ~/.zshrc
 ```
 
 ## Windows / Linux Installation Instructions
-<hr>
+<hr />
 
 To install Node on other systems, go to the [Node website](https://nodejs.org/en/download/), then download and install the appropriate installer for your operating system. Note that there are two versions available to download: the _LTS_ version and the _Current_ version. _LTS_ is short for long-term support. Either version is fine. Note that node package manager (`npm`) will be installed along with `node`. Node package manager is called `npm` for short.
 
@@ -71,7 +71,7 @@ $ npm -v
 After installation is complete, go through the "Working with Node" section below to confirm your installation is functioning correctly.
 
 ## Working with Node
-<hr>
+<hr />
 
 Confirm Node.js is functioning correctly by creating a small test project. `cd` to your desktop and then input the following command:
 
@@ -93,6 +93,6 @@ Node.js is a JavaScript runtime environment just like the browser. In fact, Node
 
 We won't be doing much with Node.js as a runtime environment, though. We will mainly use it as a package manager to install JavaScript libraries in our projects.
 
-<hr>
+<hr />
 
 If you encounter any issues installing Node.js, there will be an opportunity to receive setup assistance from Epicodus staff. Ask your teacher in Scrum when setup assistance will be provided.

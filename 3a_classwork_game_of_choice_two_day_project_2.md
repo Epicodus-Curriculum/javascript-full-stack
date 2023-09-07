@@ -1,7 +1,7 @@
 **Goal**:  The goal of this multi-day project is to exercise your JavaScript programming skills with constructors, prototypes, objects, properties, methods, and DOM manipulation and traversal.
 
 ## Warm Up
-<hr>
+<hr />
 
 First, carefully read each project description below, and decide which project to tackle with your partner. Then, work through the following questions as part of a pre-coding brainstorming session. Map out a basic approach for the project and get creative!
 
@@ -14,7 +14,7 @@ First, carefully read each project description below, and decide which project t
 * When you have a broad overview of how you want to build your game, identify the simplest behavior, and perhaps what behaviors to tackle after that. Remember to start simple and work one step at a time.  
 
 ## Code
-<hr>
+<hr />
 
 Pick just one prompt below to complete, and then start by completing the warm up.
 
@@ -80,7 +80,7 @@ Give users the option to play the computer at one of two levels: easy or hard.
 
 
 ## Peer Code Review
-<hr>
+<hr />
 
 * Does the application function as expected?
 * Is the code well-refactored and easy to follow?

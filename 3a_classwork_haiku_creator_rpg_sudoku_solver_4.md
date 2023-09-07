@@ -51,7 +51,7 @@ Logic could include the following:
 Feel free to build out your RPG as you see fit. The goal is to use `class` syntax and TDD to create well-tested business logic. You are not expected to have a functioning game in the browser. Instead, focus on testing and business logic!
 
 ## Peer Code Review
-<hr>
+<hr />
 
 * Tests were committed before code.
 * Business logic has 100% line coverage with Jest.

@@ -1,14 +1,14 @@
 **Goal**: Practice creating objects in JavaScript using constructors and prototypes. Use test-driven development to create your business logic. There should be tests for all functionality in your business logic, and they should be included in your project's README.
 
 ## Warm Up
-<hr>
+<hr />
 
 * What is the difference between creating an object using literal notation, and creating an object using a constructor?
 * What benefits do constructors offer?
 * What is a prototype? How does it differ from a constructor?
 
 ## Code
-<hr>
+<hr />
 
 Start by building the Address Book application. Then, pick either of the remaining project prompts to complete.
 
@@ -33,7 +33,7 @@ Make a to do list page where people can add tasks to create a list of things to 
 If you complete the business logic, you may work on adding a user interface. (See the upcoming lessons for more on adding a UI.) 
 
 ## Peer Code Review
-<hr>
+<hr />
 
 * Do JavaScript objects drive application logic?
 * Are constructors and prototypes used successfully?

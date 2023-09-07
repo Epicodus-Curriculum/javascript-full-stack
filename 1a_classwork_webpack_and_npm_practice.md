@@ -7,7 +7,7 @@
 We recommend building every webpack environment from scratch today. Then, in the future, you can copy/paste your configuration files and run `$ npm install` in the root of your project to set it up..
 
 ## Warm Up
-<hr>
+<hr />
 
 * What is npm? Why is it useful for our projects?
 * What is webpack and what is it used for?
@@ -15,7 +15,7 @@ We recommend building every webpack environment from scratch today. Then, in the
 * What is linting? Why is it useful in development?
 
 ## Code
-<hr>
+<hr />
 
 You are not expected to complete all of the project prompts on this page. Start by following along with the weekend homework. Then proceed to the journal project. If you have additional time, pick either Memory or Simon.
 
@@ -60,7 +60,7 @@ This is just an example. You do not have to use the above format to generate seq
 **Hint:** Since this game involves timed events (we have to time how fast it takes for the sequence to play on each turn) you may wish to investigate [the `window.setInterval()` method](https://developer.mozilla.org/en-US/docs/Web/API/setInterval).  
 
 ## Peer Code Review
-<hr>
+<hr />
 
 * Dependencies are managed with npm.
 * webpack is used to lint, bundle, and process code.

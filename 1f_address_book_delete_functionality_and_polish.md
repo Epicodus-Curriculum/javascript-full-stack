@@ -112,7 +112,7 @@ First, let's utilize Bootstrap classes to add styling and a more organized layou
       <h1>Address Book</h1>
       <div class="row">
         <div class="col-md-6">
-          <hr>
+          <hr />
           <h2>Add a Contact:</h2>
           <form id="new-contact">
             <div class="form-group">
@@ -129,7 +129,7 @@ First, let's utilize Bootstrap classes to add styling and a more organized layou
             </div>
             <button type="submit" class="btn-primary">Add</button>
           </form>
-          <hr>
+          <hr />
           <h2>Contacts:</h2>
           <div id="contacts">
           </div>

@@ -1,14 +1,14 @@
 **Goal**: The goal for this class session is to continue to practice creating objects using constructors and prototypes, and to connect those objects to a user interface.
 
 ## Warm Up
-<hr>
+<hr />
 
 * When would you use a constructor, and when would you use a prototype? What functionality do they offer?
 * What is the design principle 'separation of concerns'? What benefits does it offer?
 * What is event delegation and how do we use it?
 
 ## Code
-<hr>
+<hr />
 
 First complete the Address Book project, and then select either the Movie Tickets or Bank Account project to complete.
 
@@ -45,7 +45,7 @@ Remember to create a `BankAccount` constructor and a prototype that includes met
 Your project is not required to look like this; this is only an example.
 
 ## Peer Code Review
-<hr>
+<hr />
 
 * Does the web app work as expected?
 * Is business logic and user interface logic kept separate?

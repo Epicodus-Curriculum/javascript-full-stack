@@ -53,7 +53,7 @@ Your application should include the following:
 * Complete separation of logic (UI logic in one file, business logic in another). 
 
 ## Peer Code Review
-<hr>
+<hr />
 
 * Tests were committed before code.
 * Business logic has 100% line coverage with Jest.

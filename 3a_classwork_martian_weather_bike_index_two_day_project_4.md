@@ -74,7 +74,7 @@ Otherwise, if you liked the cryptocurrency analytics app prompt, but you want to
 * [Metadata, like the company name (not "ticker symbol") and description, only exists for stocks](https://polygon.io/docs/stocks/get_v3_reference_tickers__ticker).
 
 ## Peer Code Review
-<hr>
+<hr />
 
 * Does the application make at least one API call and work as expected?
 * Is application logic fully separated into user interface, service logic, and if necessary, business logic?

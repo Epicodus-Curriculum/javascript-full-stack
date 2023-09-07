@@ -30,7 +30,7 @@ All independent coding projects at Epicodus have these baseline requirements:
 * Completion of the project based on the prompt _and_ objectives. The prompt contains details on the project's theme and features that are not always detailed in the objective. Carefully read through the prompt towards the end of your work session to make sure that you are not missing anything.
 
 ## Submission
-<hr>
+<hr />
 
 Submit your code for review to the **Object-Oriented JavaScript** code review on [Epicenter](https://epicenter.epicodus.com/) by the deadline.
 
