@@ -1,0 +1,131 @@
+section: Asynchrony and APIs
+order: 7
+repo: javascript-full-stack
+directory: 7_asynchrony-and-apis
+lessons:
+  - title: Asynchrony and APIs in JavaScript Objectives
+    filename: 0a_asynchrony_in_javascript_objectives.md
+    day: weekend
+    type: lesson
+  - title: Asynchrony in JavaScript
+    filename: 0b_asynchrony_in_javascript.md
+    day: weekend
+    type: lesson
+  - title: Introduction to APIs
+    filename: 0c_introduction_to_apis.md
+    day: weekend
+    type: lesson
+  - title: API Documentation and Keys
+    filename: 0d_api_documentation_and_keys.md
+    day: weekend
+    type: lesson
+  - title: Testing API Calls with Postman
+    filename: 0e_testing_api_calls_with_postman.md
+    day: weekend
+    type: lesson
+  - title: Parsing JSON
+    filename: 0f_parsing_json.md
+    day: weekend
+    type: lesson
+  - title: Making API Calls with JavaScript
+    filename: 0g_making_api_calls_with_javascript.md
+    day: weekend
+    type: lesson
+  - title: Protecting API Keys
+    filename: 0h_managing_api_keys.md
+    day: weekend
+    type: lesson
+  - title: Exception Handling for API Calls
+    filename: 0i_XHR_exception_handling.md
+    day: weekend
+    type: lesson
+  - title: The DevTools Network Tab
+    filename: 0j_devtools_network_tab.md
+    day: weekend
+    type: lesson
+  - title: JavaScript Exception Handling with try...catch
+    filename: 0k_exception_handling_in_javascript.md
+    day: weekend
+    type: lesson
+  - title: 'Team Week: Project Pitch'
+    filename: team_week_project_pitch.md
+    day: weekend
+    type: lesson
+    repo: shared-full-stack
+  - title: 'Journal #6'
+    filename: 1_week_six_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: sunday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #6 Discussion'
+    filename: 2_week_six_journal_discussion_classwork.md
+    day: sunday
+    type: exercise
+    repo: career-services-full-stack
+  - title: OpenWeather API, Giphy API
+    filename: 1a_classwork_open_weather_giphy_api.md
+    day: sunday
+    type: exercise
+  - title: Tools for Handling Async Code
+    filename: 1b_tools_for_handling_async_code.md
+    day: sunday
+    type: lesson
+  - title: Introduction to Promises
+    filename: 1c_introduction_to_promises.md
+    day: sunday
+    type: lesson
+  - title: Promises with API Calls
+    filename: 1d_promises_with_api_calls.md
+    day: sunday
+    type: lesson
+  - title: Static Methods and Properties
+    filename: 1e_static_methods_and_properties.md
+    day: sunday
+    type: lesson
+  - title: Separating Promise Logic
+    filename: 1f_separating_promise_logic.md
+    day: sunday
+    type: lesson
+  - title: SOP and CORS
+    filename: 1g_cors.md
+    day: sunday
+    type: lesson
+  - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 1
+    filename: 2a_classwork_api_refactor_dino_ipsum.md
+    day: monday
+    type: exercise
+  - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 2
+    filename: 2a_classwork_api_refactor_dino_ipsum.md
+    day: tuesday
+    type: exercise
+  - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 3
+    filename: 2a_classwork_api_refactor_dino_ipsum.md
+    day: wednesday
+    type: exercise
+  - title: Fetch API
+    filename: 2b_using_fetch.md
+    day: wednesday
+    type: lesson
+  - title: Async and Await
+    filename: 2c_async_and_await.md
+    day: wednesday
+    type: lesson
+  - title: 'Further Exploration: IIFEs'
+    filename: 2d_further_exploration_iifes.md
+    day: wednesday
+    type: lesson
+  - title: 'Homework: Speaking Up'
+    filename: 5_speaking_up.md
+    day: wednesday
+    type: lesson
+    repo: DEI-full-stack
+  - title: 'Homework: Sprucing Up Your GitHub'
+    filename: sprucing-up-your-github.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack

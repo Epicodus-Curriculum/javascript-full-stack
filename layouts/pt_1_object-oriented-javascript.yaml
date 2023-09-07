@@ -1,0 +1,110 @@
+section: Object-Oriented JavaScript
+order: 3
+repo: javascript-full-stack
+directory: 3_object-oriented-javascript
+lessons:
+  - title: Object-Oriented JavaScript Objectives
+    filename: 0a_object_oriented_javascript_objectives.md
+    day: weekend
+    type: lesson
+  - title: Homework and Class Structure
+    filename: 0b_homework_and_class_structure.md
+    day: weekend
+    type: lesson
+  - title: JavaScript Objects
+    filename: 0c_javascript_objects.md
+    day: weekend
+    type: lesson
+  - title: Literal Notation Versus Constructors
+    filename: 0d_literal_notation_vs_constructors.md
+    day: weekend
+    type: lesson
+  - title: Constructors and Prototypes
+    filename: 0e_constructors_and_prototypes.md
+    day: weekend
+    type: lesson
+  - title: Constructor and Prototype Methods
+    filename: 0f_address_book_constructor_and_prototype_methods.md
+    day: weekend
+    type: lesson
+  - title: Accessing Code From Different Branches
+    filename: 0g_accessing_different_branches_and_commits.md
+    day: weekend
+    type: lesson
+  - title: Objects Within Objects
+    filename: 0h_objects_within_objects.md
+    day: weekend
+    type: lesson
+  - title: 'Address Book: Objects Within Objects'
+    filename: 0i_address_book_objects_within_objects.md
+    day: weekend
+    type: lesson
+  - title: 'Address Book: Unique IDs'
+    filename: 0j_address_book_unique_ids.md
+    day: weekend
+    type: lesson
+  - title: 'Address Book: Finding and Deleting Contacts'
+    filename: 0k_address_book_finding_and_deleting_contacts.md
+    day: weekend
+    type: lesson
+  - title: 'VS Code: Bracket Colorization and Guides'
+    filename: 0l_vscode_bracket_colorization_and_guides.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #4'
+    filename: 1_week_four_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: sunday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #4 Discussion'
+    filename: 2_week_four_journal_discussion_classwork.md
+    day: sunday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Address Book, Places You've Been, To Do
+    filename: 1a_classwork_address_book_places_youve_been_and_to_do.md
+    day: sunday
+    type: exercise
+  - title: 'Address Book: User Interface'
+    filename: 1b_address_book_user_interface.md
+    day: sunday
+    type: lesson
+  - title: Looping Through Objects and Prototypal Inheritance
+    filename: 1c_looping_through_object_properties.md
+    day: sunday
+    type: lesson
+  - title: 'Address Book: Adding Interactivity'
+    filename: 1d_address_book_adding_interactivity.md
+    day: sunday
+    type: lesson
+  - title: Address Book, Movie Tickets, Bank Account - Part 1
+    filename: 2a_classwork_address_book_movie_tickets_bank_account.md
+    day: monday
+    type: exercise
+  - title: 'Address Book: Event Bubbling, Event Delegation, and the Event Object'
+    filename: 1e_address_book_intro_to_event_delegation.md
+    day: monday
+    type: lesson
+  - title: 'Address Book: Delete Functionality and Polish'
+    filename: 1f_address_book_delete_functionality_and_polish.md
+    day: monday
+    type: lesson
+  - title: LinkedIn
+    filename: 3_linkedin_classwork.md
+    day: wednesday
+    type: exercise
+    repo: career-services-full-stack
+  - title: 'Homework: Imposter Syndrome'
+    filename: 3_imposter_syndrome.md
+    day: wednesday
+    type: lesson
+    repo: DEI-full-stack
+  - title: Introduction to the Node Object
+    filename: 2b_introduction_to_the_node_object.md
+    day: wednesday
+    type: lesson

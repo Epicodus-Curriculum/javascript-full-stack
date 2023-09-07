@@ -1,0 +1,54 @@
+section: Object Oriented JavaScript Part 2
+order: 4
+repo: javascript-full-stack
+directory: 4_object-oriented-javascript-part-2
+lessons:
+  - title: Game of Choice - Part 1
+    filename: 3a_classwork_game_of_choice_two_day_project.md
+    day: sunday
+    type: exercise
+  - title: 'Optional: Accessing Stylesheets in the CSSOM'
+    filename: 2c_accessing_style_sheets_with_CSSOM.md
+    day: sunday
+    type: lesson
+  - title: Switch Cases
+    filename: 3c_switch_cases.md
+    day: sunday
+    type: lesson
+  - title: 'Further Exploration: Local Storage'
+    filename: 3d_further_exploration_local_storage.md
+    day: sunday
+    type: lesson
+  - title: 'Further Exploration: Aliases'
+    filename: 3e_using_aliases.md
+    day: sunday
+    type: lesson
+  - title: Game of Choice - Part 2
+    filename: 3a_classwork_game_of_choice_two_day_project.md
+    day: monday
+    type: exercise
+  - title: 'Developer Reality: Daily Team Meetings'
+    filename: developer_reality_daily_team_meetings.md
+    day: monday
+    type: lesson
+    repo: shared-full-stack
+  - title: Game of Choice - Part 3
+    filename: 3a_classwork_game_of_choice_two_day_project.md
+    day: tuesday
+    type: exercise
+  - title: Introduction to Whiteboarding
+    filename: 3b_introduction_to_whiteboarding.md
+    day: tuesday
+    type: lesson
+  - title: Game of Choice - Part 4
+    filename: 3a_classwork_game_of_choice_two_day_project.md
+    day: wednesday
+    type: exercise
+  - title: 'Whiteboard Practice: JavaScript Objects'
+    filename: 4a_classwork_whiteboard_practice_javascript_objects.md
+    day: wednesday
+    type: exercise
+  - title: Object-Oriented JavaScript Independent Project
+    filename: 5a_classwork_object_oriented_javascript_independent_project.md
+    day: thursday
+    type: exercise
