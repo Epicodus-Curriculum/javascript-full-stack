@@ -188,7 +188,7 @@ lessons:
     day: wednesday
     type: lesson
   - title: Haiku Creator, RPG, Sudoku Solver (Two-Day Project) - Part 2
-    filename: 3a_classwork_haiku_creator_rpg_sudoku_solver.md
+    filename: 3a_classwork_haiku_creator_rpg_sudoku_solver_2.md
     day: thursday
     type: exercise
   - title: 'Whiteboard Practice: JavaScript Strings'

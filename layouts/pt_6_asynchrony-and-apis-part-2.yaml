@@ -16,15 +16,15 @@ lessons:
     day: sunday
     type: lesson
   - title: Bike Index, Cryptocurrency Analytics App, API of Choice (Week-Long Project) - Part 2
-    filename: 3a_classwork_martian_weather_bike_index_two_day_project.md
+    filename: 3a_classwork_martian_weather_bike_index_two_day_project_2.md
     day: monday
     type: exercise
   - title: Bike Index, Cryptocurrency Analytics App, API of Choice (Week-Long Project) - Part 3
-    filename: 3a_classwork_martian_weather_bike_index_two_day_project.md
+    filename: 3a_classwork_martian_weather_bike_index_two_day_project_3.md
     day: tuesday
     type: exercise
   - title: Bike Index, Cryptocurrency Analytics App, API of Choice (Week-Long Project) - Part 4
-    filename: 3a_classwork_martian_weather_bike_index_two_day_project.md
+    filename: 3a_classwork_martian_weather_bike_index_two_day_project_4.md
     day: wednesday
     type: exercise
   - title: 'Whiteboading Practice: Asynchrony'

@@ -24,7 +24,7 @@ lessons:
     day: sunday
     type: lesson
   - title: Game of Choice - Part 2
-    filename: 3a_classwork_game_of_choice_two_day_project.md
+    filename: 3a_classwork_game_of_choice_two_day_project_2.md
     day: monday
     type: exercise
   - title: 'Developer Reality: Daily Team Meetings'
@@ -33,7 +33,7 @@ lessons:
     type: lesson
     repo: shared-full-stack
   - title: Game of Choice - Part 3
-    filename: 3a_classwork_game_of_choice_two_day_project.md
+    filename: 3a_classwork_game_of_choice_two_day_project_3.md
     day: tuesday
     type: exercise
   - title: Introduction to Whiteboarding
@@ -41,7 +41,7 @@ lessons:
     day: tuesday
     type: lesson
   - title: Game of Choice - Part 4
-    filename: 3a_classwork_game_of_choice_two_day_project.md
+    filename: 3a_classwork_game_of_choice_two_day_project_4.md
     day: wednesday
     type: exercise
   - title: 'Whiteboard Practice: JavaScript Objects'

@@ -100,11 +100,11 @@ lessons:
     day: monday
     type: exercise
   - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 2
-    filename: 2a_classwork_api_refactor_dino_ipsum.md
+    filename: 2a_classwork_api_refactor_dino_ipsum_2.md
     day: tuesday
     type: exercise
   - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 3
-    filename: 2a_classwork_api_refactor_dino_ipsum.md
+    filename: 2a_classwork_api_refactor_dino_ipsum_3.md
     day: wednesday
     type: exercise
   - title: Fetch API
