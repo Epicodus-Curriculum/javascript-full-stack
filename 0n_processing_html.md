@@ -98,7 +98,7 @@ All that said, we won't remove the event listener for the `window` 'load' event 
 
 Before we `$ npm run build` our application again, let's remove the `<script>` tag currently linking our bundled JavaScript from `index.html`. Here's the updated `<head>`:
 
-<div class=filename>src/index.html</div>
+<div class="filename">src/index.html</div>
 
 ```html
 ...
