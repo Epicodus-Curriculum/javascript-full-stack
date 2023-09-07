@@ -12,22 +12,27 @@ lessons:
     filename: git_with_collaborators_setup.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: 'Git with Collaborators: Workflow'
     filename: git_with_collaborators_workflow.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: Rewriting History with Git
     filename: git_rewriting_history.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: Learning More About Git
     filename: learning_more_about_git.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: Practicing the Git Workflow
     filename: practicing_git_workflow.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: Hosting a Webpack Project with GH-Pages
     filename: webpack-hosting.md
     day: weekend
@@ -37,6 +42,7 @@ lessons:
     filename: backend_course_software_installation.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: 'Journal #7'
     filename: 1_week_seven_journal_prompt.md
     day: weekend
@@ -51,10 +57,12 @@ lessons:
     filename: pull_requests_with_branches.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: Pull Requests with Forks
     filename: pull_requests_with_forks.md
     day: weekend
     type: lesson
+    repo: shared-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
     day: weekend
@@ -64,3 +72,4 @@ lessons:
     filename: team_week_presentations_and_code_review.md
     day: thursday
     type: lesson
+    repo: shared-full-stack
