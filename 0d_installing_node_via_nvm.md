@@ -16,7 +16,7 @@ $ node -v
 v18.16.0
 ```
 
-The command `node -v` checks the version of Node that’s installed on your computer. If you see a version number like `v18.16.0` returned, then node is installed on your computer. Note that your version of node may be different from the example above. If you get a message about “node: command not found”, it means your computer does not recognize the `node` command because node is not installed (or possibly there was an error in the installation process).
+The command `node -v` checks the version of Node that's installed on your computer. If you see a version number like `v18.16.0` returned, then node is installed on your computer. Note that your version of node may be different from the example above. If you get a message about “node: command not found”, it means your computer does not recognize the `node` command because node is not installed (or possibly there was an error in the installation process).
 
 To uninstall node on a Windows machine, follow these steps:
 
@@ -53,7 +53,7 @@ Here are other useful commands to use to manage your Node versions with nvm-wind
 
 Finally, check out these resources for more information about Node versions and nvm-windows:
 
-* See all of the versions of Node that you can install via nvm-windows, check out the Node documentation: [https://nodejs.org/en/docs](https://nodejs.org/en/docs). It’s recommended to use Node versions that are listed as `lts` for “long term support”, which are the stable versions of node that are supported for a long time — but not forever! To see a list of currently supported Node versions and their end of life dates, visit [the node releases page](https://nodejs.dev/en/about/releases/). 
+* See all of the versions of Node that you can install via nvm-windows, check out the Node documentation: [https://nodejs.org/en/docs](https://nodejs.org/en/docs). It's recommended to use Node versions that are listed as `lts` for “long term support”, which are the stable versions of node that are supported for a long time — but not forever! To see a list of currently supported Node versions and their end of life dates, visit [the node releases page](https://nodejs.dev/en/about/releases/). 
 * Check out the nvm-windows documentation via [their GitHub repo README](https://github.com/coreybutler/nvm-windows). 
 
 ### Installing `nvm` and  Node.js on Mac and Linux
@@ -78,7 +78,7 @@ Next, we’ll install the version of Node that we’ll use in the program. We’
 
 * To install a specific version of node use the command `nvm install <version>` where `<version>` is the version of Node you want to install. We’ll use this command now: open terminal and enter `nvm install 16.13.1`. If this is the first version of Node that you are installing, nvm knows to automatically use it as the default version. 
 * We can verify that Node was successfully installed by running `node -v` in the command line. We should see `v16.13.1` returned to us.
-* You can list the version(s) of Node you have installed on your computer with the `nvm ls` command. This command will list your installed versions of node at the top of the list, including the default version that’s currently being used, as well as a list of Node versions that are not installed on your machine, but are listed as `lts` for “long term support”, which are the stable versions of node that are supported for a long time — but not forever! To see a list of currently supported Node versions and their end of life dates, visit [the node releases page](https://nodejs.dev/en/about/releases/). 
+* You can list the version(s) of Node you have installed on your computer with the `nvm ls` command. This command will list your installed versions of node at the top of the list, including the default version that's currently being used, as well as a list of Node versions that are not installed on your machine, but are listed as `lts` for “long term support”, which are the stable versions of node that are supported for a long time — but not forever! To see a list of currently supported Node versions and their end of life dates, visit [the node releases page](https://nodejs.dev/en/about/releases/). 
 * You can list all available versions of Node using `nvm ls-remote`. This will be a very large list.
 * To switch the default version of Node that your computer is using, use the command `nvm use <version>`, where `<version>` is the version number of Node that you want to set as default.
 * To learn about other usage commands, visit [the nvm documentation](https://github.com/nvm-sh/nvm#usage).

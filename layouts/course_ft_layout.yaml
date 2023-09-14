@@ -1,0 +1,68 @@
+---
+part_time: false
+internship: false
+number_of_weeks: 3
+class_times:
+  Monday: 8:00-17:00
+  Tuesday: 8:00-17:00
+  Wednesday: 8:00-17:00
+  Thursday: 8:00-17:00
+  Friday: 8:00-17:00
+code_reviews:
+  settings:
+    visible_day_of_week: friday
+    visible_time: "8:00"
+    due_days_later: 0
+    due_time: "17:00"
+    submissions_not_required: false
+    always_visible: false
+  details:
+    - title: Object-Oriented JavaScript
+      visible_class_week: 1
+      filename: https://github.com/epicodus-classroom/js-curriculum/blob/main/1_new_object_oriented_javascript/5a_cr_object_oriented_javascript_independent_project.md
+      objectives:
+      - "Constructors and prototypes are used successfully."
+      - "Application works as expected."
+      - "Tests are included for each business logic behavior and code is committed after each test passes."
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt's required functionality and baseline project requirements are in place by the deadline."
+    - title: Imposter Syndrome
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/4_imposter_syndrome_reflection.md
+    - title: Test-Driven Development and Environments with JavaScript
+      visible_class_week: 2
+      filename: https://github.com/epicodus-classroom/js-curriculum/blob/main/2_new_test_driven_development/5a_teacher_tdd_with_javascript_independent_project.md
+      objectives:
+      - "Business logic has 100% line coverage with Jest."
+      - "Tests are included for each business logic behavior and code is committed after each test passes."
+      - "Project utilizes classes, a feature of ES6."
+      - "Dependencies are managed with npm."
+      - "webpack is used to lint, bundle, and process code."
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt's required functionality and baseline project requirements are in place by the deadline."
+    - title: Asking and Listening
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/5_asking_and_listening_reflection.md
+    - title: Asynchrony and APIs
+      visible_class_week: 3
+      filename: https://github.com/epicodus-classroom/js-curriculum/blob/main/3_new_asynchrony_and_apis/5a_teacher_asynchrony_and_apis_independent_project.md
+      objectives:
+      - "Does the application correctly make an API call?"
+      - "Does the application correctly parse data from the API response?"
+      - "Does the application handle errors when the API call doesn't return a 200 OK status as well as return a message if the API returns no results?"
+      - "Did you follow all setup instructions, including storing your API key and adding instructions for setup in your README?"
+      - "Does the app separate logic into different JavaScript files and use a static method?"
+      - "Does the application correctly use webpack?"
+      - "Project is in a polished, portfolio-quality state."
+      - "The prompt's required functionality and baseline project requirements are in place by the deadline."
+    - title: Speaking Up
+      always_visible: true
+      journal: true
+      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/6_speaking_up_reflection.md
+    - title: Team Week
+      visible_class_week: 4
+      filename: https://github.com/epicodus-classroom/shared-curriculum/blob/main/team_week/team_week_cr.md
+      objectives:
+      - "Did you participate in planning, creating, and presenting a project, including working effectively with teammates?"

@@ -18,4 +18,4 @@ At the end of this section, you will complete an independent project. Your code 
 * Dependencies are managed with npm.
 * webpack is used to lint, bundle, and process code.
 * Project is in a polished, portfolio-quality state.
-* The prompt’s required functionality and baseline project requirements are in place by the deadline.
+* The prompt's required functionality and baseline project requirements are in place by the deadline.

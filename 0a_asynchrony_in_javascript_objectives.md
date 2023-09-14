@@ -26,4 +26,4 @@ At the end of this section, you will complete an independent project. Your code 
 * Does the app separate logic into different JavaScript files and use a static method?
 * Does the application correctly use webpack?
 * Project is in a polished, portfolio-quality state.
-* The prompt’s required functionality and baseline project requirements are in place by the deadline.
+* The prompt's required functionality and baseline project requirements are in place by the deadline.

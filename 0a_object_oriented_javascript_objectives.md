@@ -48,4 +48,4 @@ At the end of this section, you will complete an independent project. Your code 
 * Application works as expected.
 * Tests are included for each business logic behavior and code is committed after each test passes.
 * Project is in a polished, portfolio-quality state.
-* The prompt’s required functionality and baseline project requirements are in place by the deadline.
+* The prompt's required functionality and baseline project requirements are in place by the deadline.

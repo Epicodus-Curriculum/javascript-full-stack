@@ -39,11 +39,11 @@ Keep in mind that Epicodus follows the flipped classroom model, where reading is
 
 The expectation for all students is to have at least read through the homework before class. You are welcome to code through the material as homework if you have more time available to you outside of class. However, **please respect that not everyone in your class may have the same time available to dedicate to coding outside of class as you have.** 
 
-It’s not fair to repeatedly ask to only pair with others who are able to dedicate more hours to coding outside of the classroom or who are at the same comfort level with coding as you. When you repeatedly do this it has the effect of inadvertently shaming others and alienating you from your peers. This habit also does a disservice to you as well, as you are missing out on opportunities to truly test your understanding of the material by workshopping it with someone else.
+It's not fair to repeatedly ask to only pair with others who are able to dedicate more hours to coding outside of the classroom or who are at the same comfort level with coding as you. When you repeatedly do this it has the effect of inadvertently shaming others and alienating you from your peers. This habit also does a disservice to you as well, as you are missing out on opportunities to truly test your understanding of the material by workshopping it with someone else.
 
 Often the homework builds a project to put new concepts into action. Since we don’t expect students to code along with the homework, the first practice prompt for the following class session is usually dedicated to reviewing the homework and building the project. Even in these cases, you're expected to read lessons the night before and you should never be reading a lesson that was assigned as homework for the first time during class. 
 
-Keep in mind that understanding new concepts well takes repeated practice and review. This is why reading through the homework before you come to class is so important — it’s your first review (of many) that will prepare you to work with your pair during class. 
+Keep in mind that understanding new concepts well takes repeated practice and review. This is why reading through the homework before you come to class is so important — it's your first review (of many) that will prepare you to work with your pair during class. 
 
 As a guideline, if you and your pair are in a situation where one person has read through the homework and the other person has coded through the homework, know that this is very common and expect to start by pair programming through the homework to build the project. 
 
