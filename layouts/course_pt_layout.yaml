@@ -20,7 +20,7 @@ code_reviews:
   details:
     - title: Object-Oriented JavaScript
       visible_class_week: 2
-      filename: https://github.com/epicodus-classroom/js-curriculum/blob/main/1_new_object_oriented_javascript/5a_cr_object_oriented_javascript_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/js/1_cr_object_oriented_javascript_independent_project.md
       objectives:
       - "Constructors and prototypes are used successfully."
       - "Application works as expected."
@@ -30,10 +30,10 @@ code_reviews:
     - title: Imposter Syndrome
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/4_imposter_syndrome_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/4_imposter_syndrome_reflection.md
     - title: Test Driven Development and Environments with JavaScript
       visible_class_week: 4
-      filename: https://github.com/epicodus-classroom/js-curriculum/blob/main/2_new_test_driven_development/5a_teacher_tdd_with_javascript_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/js/2_teacher_tdd_with_javascript_independent_project.md
       objectives:
       - "Business logic has 100% line coverage with Jest."
       - "Tests are included for each business logic behavior and code is committed after each test passes."
@@ -45,10 +45,10 @@ code_reviews:
     - title: Asking and Listening
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/5_asking_and_listening_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/5_asking_and_listening_reflection.md
     - title: Asynchrony and APIs
       visible_class_week: 6
-      filename: https://github.com/epicodus-classroom/js-curriculum/blob/main/3_new_asynchrony_and_apis/5a_teacher_asynchrony_and_apis_independent_project.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/js/3_teacher_asynchrony_and_apis_independent_project.md
       objectives:
       - "Does the application correctly make an API call?"
       - "Does the application correctly parse data from the API response?"
@@ -61,4 +61,4 @@ code_reviews:
     - title: Speaking Up
       always_visible: true
       journal: true
-      filename: https://github.com/epicodus-classroom/dei-curriculum/blob/main/dei-reflections/6_speaking_up_reflection.md
+      filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/6_speaking_up_reflection.md
