@@ -1,24 +1,15 @@
 ---
-part_time: false
-internship: false
-number_of_weeks: 3
-class_times:
-  Monday: 8:00-17:00
-  Tuesday: 8:00-17:00
-  Wednesday: 8:00-17:00
-  Thursday: 8:00-17:00
-  Friday: 8:00-17:00
 code_reviews:
   settings:
-    visible_day_of_week: friday
-    visible_time: "8:00"
-    due_days_later: 0
-    due_time: "17:00"
+    visible_day_of_week: thursday
+    visible_time: "17:00"
+    due_days_later: 3
+    due_time: "9:00"
     submissions_not_required: false
     always_visible: false
   details:
     - title: Object-Oriented JavaScript
-      visible_class_week: 1
+      visible_class_week: 2
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/js/1_cr_object_oriented_javascript_independent_project.md
       objectives:
       - "Constructors and prototypes are used successfully."
@@ -30,8 +21,8 @@ code_reviews:
       always_visible: true
       journal: true
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/4_imposter_syndrome_reflection.md
-    - title: Test-Driven Development and Environments with JavaScript
-      visible_class_week: 2
+    - title: Test Driven Development and Environments with JavaScript
+      visible_class_week: 4
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/js/2_teacher_tdd_with_javascript_independent_project.md
       objectives:
       - "Business logic has 100% line coverage with Jest."
@@ -46,7 +37,7 @@ code_reviews:
       journal: true
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/dei/5_asking_and_listening_reflection.md
     - title: Asynchrony and APIs
-      visible_class_week: 3
+      visible_class_week: 6
       filename: https://github.com/epicodus-curriculum/code-reviews/blob/main/js/3_teacher_asynchrony_and_apis_independent_project.md
       objectives:
       - "Does the application correctly make an API call?"
