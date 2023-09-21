@@ -1,0 +1,146 @@
+section: Object-Oriented JavaScript
+order: 3
+repo: javascript-full-stack
+directory: 3_object-oriented-javascript
+lessons:
+  - title: Object-Oriented JavaScript Objectives
+    filename: 0a_object_oriented_javascript_objectives.md
+    day: weekend
+    type: lesson
+  - title: Installing and Using Node Version Manager
+    filename: 0d_installing_node_via_nvm.md
+    day: weekend
+    type: lesson
+  - title: Homework and Class Structure
+    filename: 0b_homework_and_class_structure.md
+    day: weekend
+    type: lesson
+  - title: JavaScript Objects
+    filename: 0c_javascript_objects.md
+    day: weekend
+    type: lesson
+  - title: Literal Notation Versus Constructors
+    filename: 0d_literal_notation_vs_constructors.md
+    day: weekend
+    type: lesson
+  - title: Constructors and Prototypes
+    filename: 0e_constructors_and_prototypes.md
+    day: weekend
+    type: lesson
+  - title: Constructor and Prototype Methods
+    filename: 0f_address_book_constructor_and_prototype_methods.md
+    day: weekend
+    type: lesson
+  - title: Accessing Code From Different Branches
+    filename: 0g_accessing_different_branches_and_commits.md
+    day: weekend
+    type: lesson
+  - title: Objects Within Objects
+    filename: 0h_objects_within_objects.md
+    day: weekend
+    type: lesson
+  - title: 'Address Book: Objects Within Objects'
+    filename: 0i_address_book_objects_within_objects.md
+    day: weekend
+    type: lesson
+  - title: 'Address Book: Unique IDs'
+    filename: 0j_address_book_unique_ids.md
+    day: weekend
+    type: lesson
+  - title: 'Address Book: Finding and Deleting Contacts'
+    filename: 0k_address_book_finding_and_deleting_contacts.md
+    day: weekend
+    type: lesson
+  - title: 'VS Code: Bracket Colorization and Guides'
+    filename: 0l_vscode_bracket_colorization_and_guides.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #4'
+    filename: 1_week_four_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: monday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #4 Discussion'
+    filename: 2_week_four_journal_discussion_classwork.md
+    day: monday
+    type: exercise
+    repo: career-services-full-stack
+  - title: Address Book, Places You've Been, To Do
+    filename: 1a_classwork_address_book_places_youve_been_and_to_do.md
+    day: monday
+    type: exercise
+  - title: 'Address Book: User Interface'
+    filename: 1b_address_book_user_interface.md
+    day: monday
+    type: lesson
+  - title: Looping Through Objects and Prototypal Inheritance
+    filename: 1c_looping_through_object_properties.md
+    day: monday
+    type: lesson
+  - title: 'Address Book: Adding Interactivity'
+    filename: 1d_address_book_adding_interactivity.md
+    day: monday
+    type: lesson
+  - title: 'Address Book: Event Bubbling, Event Delegation, and the Event Object'
+    filename: 1e_address_book_intro_to_event_delegation.md
+    day: monday
+    type: lesson
+  - title: 'Address Book: Delete Functionality and Polish'
+    filename: 1f_address_book_delete_functionality_and_polish.md
+    day: monday
+    type: lesson
+  - title: Imposter Syndrome
+    filename: 3_imposter_syndrome.md
+    day: monday
+    type: lesson
+    repo: DEI-full-stack
+  - title: Address Book, Movie Tickets, Bank Account
+    filename: 2a_classwork_address_book_movie_tickets_bank_account.md
+    day: tuesday
+    type: exercise
+  - title: Introduction to the Node Object
+    filename: 2b_introduction_to_the_node_object.md
+    day: tuesday
+    type: lesson
+  - title: 'Optional: Accessing Stylesheets in the CSSOM'
+    filename: 2c_accessing_style_sheets_with_CSSOM.md
+    day: tuesday
+    type: lesson
+  - title: Game of Choice (Two-Day Project)
+    filename: 3a_classwork_game_of_choice_two_day_project.md
+    day: wednesday
+    type: exercise
+  - title: Introduction to Whiteboarding
+    filename: 3b_introduction_to_whiteboarding.md
+    day: wednesday
+    type: lesson
+  - title: Switch Cases
+    filename: 3c_switch_cases.md
+    day: wednesday
+    type: lesson
+  - title: 'Further Exploration: Local Storage'
+    filename: 3d_further_exploration_local_storage.md
+    day: wednesday
+    type: lesson
+  - title: 'Further Exploration: Aliases'
+    filename: 3e_using_aliases.md
+    day: wednesday
+    type: lesson
+  - title: 'Whiteboard Practice: JavaScript Objects'
+    filename: 4a_classwork_whiteboard_practice_javascript_objects.md
+    day: thursday
+    type: exercise
+  - title: 'Developer Reality: Daily Team Meetings'
+    filename: developer_reality_daily_team_meetings.md
+    day: thursday
+    type: lesson
+    repo: shared-full-stack
+  - title: Object-Oriented JavaScript Independent Project
+    filename: 5a_classwork_object_oriented_javascript_independent_project.md
+    day: friday
+    type: exercise

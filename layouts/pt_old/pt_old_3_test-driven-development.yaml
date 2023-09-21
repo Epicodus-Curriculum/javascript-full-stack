@@ -1,0 +1,170 @@
+section: Test Driven Development
+order: 5
+repo: javascript-full-stack
+directory: 5_test-driven-development
+lessons:
+  - title: Test Driven Development and Environments with JavaScript Objectives
+    filename: 0a_test_driven_development_objectives.md
+    day: weekend
+    type: lesson
+  - title: Modern JavaScript Development
+    filename: 0b_modern_javascript_development.md
+    day: weekend
+    type: lesson
+  - title: Basic Project Structure
+    filename: 0c_project_structure.md
+    day: weekend
+    type: lesson
+  - title: Future Project Structure
+    filename: 0d_future_project_structure.md
+    day: weekend
+    type: lesson
+  - title: Git Best Practices and Adding a .gitignore File
+    filename: 0e_git_best_practices_and_adding_a_gitignore_file.md
+    day: weekend
+    type: lesson
+  - title: Creating a package.json with npm
+    filename: 0f_building_a_manifest_file_with_npm.md
+    day: weekend
+    type: lesson
+  - title: Semantic Versioning
+    filename: 0g_semantic_versioning.md
+    day: weekend
+    type: lesson
+  - title: Installing Dependencies with npm
+    filename: 0h_installing_dependencies_with_npm.md
+    day: weekend
+    type: lesson
+  - title: Introduction to webpack
+    filename: 0i_introduction_to_webpack.md
+    day: weekend
+    type: lesson
+  - title: Configuring webpack and Using npm Scripts
+    filename: 0j_configuring_webpack.md
+    day: weekend
+    type: lesson
+  - title: ES6 Imports and Exports
+    filename: 0k_es6_imports_and_exports.md
+    day: weekend
+    type: lesson
+  - title: Bundling JavaScript
+    filename: 0l_bundling_javascript.md
+    day: weekend
+    type: lesson
+  - title: Bundling CSS with webpack Loaders
+    filename: 0m_bundling_css.md
+    day: weekend
+    type: lesson
+  - title: Processing HTML with a webpack Plugin
+    filename: 0n_processing_html.md
+    day: weekend
+    type: lesson
+  - title: Improving Development by Automating Clean Up Tasks
+    filename: 0o_cleaning_up.md
+    day: weekend
+    type: lesson
+  - title: Improving Development with Source Maps for Debugging
+    filename: 0p_source_maps_for_debugging.md
+    day: weekend
+    type: lesson
+  - title: Improving Development with a Live Development Server
+    filename: 0q_development_servers.md
+    day: weekend
+    type: lesson
+  - title: Improving Development by Linting Code
+    filename: 0r_linting_code.md
+    day: weekend
+    type: lesson
+  - title: 'Adding A Production Dependency: Bootstrap'
+    filename: 0s_adding_a_production_dependency.md
+    day: weekend
+    type: lesson
+  - title: Configuration Reference, Suggested Workflows, and Optional Review
+    filename: 0t_config_reference_workflow_and_review.md
+    day: weekend
+    type: lesson
+  - title: 'Journal #5'
+    filename: 1_week_five_journal_prompt.md
+    day: weekend
+    type: lesson
+    repo: career-services-full-stack
+  - title: Prior Course Section Survey
+    filename: course_section_survey.md
+    day: sunday
+    type: lesson
+    repo: pre-work-full-stack
+  - title: 'Journal #5 Discussion'
+    filename: 2_week_five_journal_discussion_classwork.md
+    day: sunday
+    type: exercise
+    repo: career-services-full-stack
+  - title: webpack and npm Practice
+    filename: 1a_classwork_webpack_and_npm_practice.md
+    day: sunday
+    type: exercise
+  - title: TDD Review
+    filename: 1b_tdd_review.md
+    day: sunday
+    type: lesson
+  - title: Red Green Refactor Workflow
+    filename: 1c_red_green_refactor_workflow.md
+    day: sunday
+    type: lesson
+  - title: Setting Up Jest
+    filename: 1d_setting_up_jest.md
+    day: sunday
+    type: lesson
+  - title: Setting Up Babel
+    filename: 1e_setting_up_babel.md
+    day: sunday
+    type: lesson
+  - title: 'TDD with Jest: Testing the Triangle() Constructor'
+    filename: 1f_tdd_with_jest_triangle_constructor.md
+    day: sunday
+    type: lesson
+  - title: 'TDD with Jest: Testing the Triangle.prototype.checkType() Method'
+    filename: 1g_tdd_with_jest_checkType_method.md
+    day: sunday
+    type: lesson
+  - title: Testing Best Practices
+    filename: 1h_good_fails_and_bad_fails.md
+    day: sunday
+    type: lesson
+  - title: Test It Out, Sudoku Checker, Project Euler
+    filename: 2a_classwork_test_it_out_sudoku_checker_project_euler.md
+    day: monday
+    type: exercise
+  - title: 'Expanding our Testing Tools: Adding Setup and Teardown'
+    filename: 1i_setup_and_teardown.md
+    day: monday
+    type: lesson
+  - title: 'Improving Test Reports: Adding Test Coverage Information'
+    filename: 1j_adding_test_coverage_information.md
+    day: monday
+    type: lesson
+  - title: Test It Out, Sudoku Checker, Project Euler
+    filename: 2a_classwork_test_it_out_sudoku_checker_project_euler.md
+    day: tuesday
+    type: exercise
+  - title: Introduction to ES6
+    filename: 2b_introduction_to_es6.md
+    day: wednesday
+    type: lesson
+  - title: ES6 Classes
+    filename: 2c_es6_classes.md
+    day: wednesday
+    type: lesson
+  - title: Test It Out, Sudoku Checker, Project Euler
+    filename: 2a_classwork_test_it_out_sudoku_checker_project_euler.md
+    day: wednesday
+    type: exercise
+  - title: 'Homework: Asking and Listening'
+    filename: 4_asking_and_listening.md
+    day: wednesday
+    type: lesson
+    repo: DEI-full-stack
+  - title: 'Homework: Meetups and Networking'
+    filename: meetups-and-networking.md
+    day: wednesday
+    type: lesson
+    repo: career-services-full-stack
