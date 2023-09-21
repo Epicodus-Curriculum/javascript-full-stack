@@ -1,0 +1,62 @@
+section: Test Driven Development Part 2
+order: 6
+repo: javascript-full-stack
+directory: 6_test-driven-development-part-2
+lessons:
+  - title: Weekday Calculator, Haiku Creator, RPG (Week-Long Project) - Part 1
+    filename: 3a_classwork_haiku_creator_rpg_sudoku_solver.md
+    day: sunday
+    type: exercise
+  - title: ES6 Arrow Notation
+    filename: 2d_arrow_functions.md
+    day: sunday
+    type: lesson
+  - title: ES6 Template Literals
+    filename: 2e_template_literals_in_es6.md
+    day: sunday
+    type: lesson
+  - title: Working with Multiple Files
+    filename: 2f_working_with_multiple_files.md
+    day: sunday
+    type: lesson
+  - title: Creating a Template Repository
+    filename: 2f_working_with_templates.md
+    day: sunday
+    type: lesson
+  - title: Weekday Calculator, Haiku Creator, RPG (Week-Long Project) - Part 2
+    filename: 3a_classwork_haiku_creator_rpg_sudoku_solver_2.md
+    day: monday
+    type: exercise
+  - title: Managing Images with webpack
+    filename: 3b_managing_images_with_webpack.md
+    day: monday
+    type: lesson
+  - title: 'Developer Reality: You Are the Project'
+    filename: you_are_the_project.md
+    day: monday
+    type: lesson
+    repo: shared-full-stack
+  - title: Weekday Calculator, Haiku Creator, RPG (Week-Long Project) - Part 3
+    filename: 3a_classwork_haiku_creator_rpg_sudoku_solver_3.md
+    day: tuesday
+    type: exercise
+  - title: ES6 Array and Object Destructuring
+    filename: 3d_destructuring.md
+    day: tuesday
+    type: lesson
+  - title: ES6 Maps and Sets
+    filename: 3e_es6_maps_and_sets.md
+    day: tuesday
+    type: lesson
+  - title: Weekday Calculator, Haiku Creator, RPG (Week-Long Project) - Part 4
+    filename: 3a_classwork_haiku_creator_rpg_sudoku_solver_4.md
+    day: wednesday
+    type: exercise
+  - title: 'Whiteboard Practice: JavaScript Strings'
+    filename: 4a_classwork_whiteboarding_practice_javascript_strings.md
+    day: wednesday
+    type: exercise
+  - title: TDD and Environments with JavaScript Independent Project
+    filename: 5a_classwork_tdd_with_javascript_independent_project.md
+    day: thursday
+    type: exercise

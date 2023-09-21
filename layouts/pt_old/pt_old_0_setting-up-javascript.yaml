@@ -1,0 +1,17 @@
+section: Setting Up JavaScript
+order: 2
+repo: javascript-full-stack
+directory: 2_setting-up-javascript
+lessons:
+  - title: Welcome to JavaScript
+    filename: 0a_welcome_to_javascript.md
+    day: weekend
+    type: lesson
+  - title: JS Documentation and Resources
+    filename: 0b_javascript_documentation_and_resources.md
+    day: weekend
+    type: lesson
+  - title: Installing node.js
+    filename: 0c_installing_node_js.md
+    day: weekend
+    type: lesson
