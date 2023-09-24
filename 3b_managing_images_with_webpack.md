@@ -78,7 +78,7 @@ Now let's add our image to our HTML so we can see it in the browser. We'll add t
 </head>
 <body>
   <div>Hello world!</div>
-  <img src="./assets/images/stock-puppy-photo.jpg" alt="such a pup!">
+  <img src="./assets/images/stock-puppy-photo.jpg" alt="such a pup!"/>
 </body>
 </html>
 ```
