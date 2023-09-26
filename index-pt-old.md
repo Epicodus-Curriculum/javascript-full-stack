@@ -1,7 +1,7 @@
 ---
 title: Intermediate JavaScript (Part-Time - Evening)
 id: index
-slug: /intermediate_javascript_part_time_evening
+slug: /intermediate-javascript-part-time-evening
 hide_table_of_contents: true
 sidebar_position: 0
 ---

@@ -1,4 +1,4 @@
-Over the course of this section, we will build an application called **Shape Tracker** based on the [Triangle Tracker](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/practice-triangle-tracker) project from the Introduction to Programming course. There's a good chance you have a repo with your own triangle project, but even if you don't (or it's not working), don't worry. We will walk through the project step by step. 
+Over the course of this section, we will build an application called **Shape Tracker** based on the [Triangle Tracker](https://new.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/practice-triangle-tracker) project from the Introduction to Programming course. There's a good chance you have a repo with your own triangle project, but even if you don't (or it's not working), don't worry. We will walk through the project step by step. 
 
 This course section is not about learning JavaScript itself. While we will learn about some new JavaScript features, our main goal is learning how to use JavaScript libraries and external tools to build our projects. This is what we'll build, step by step:
 
@@ -8,7 +8,7 @@ This course section is not about learning JavaScript itself. While we will learn
 
 You are welcome to code along with the weekend homework, or just read through the lessons. In class, the very first classwork lesson will prompt you to work through these lessons to build the development environment for the Shape Tracker project.
 
-**Do not make any commits or push your code just yet!** We will be learning some additional Git best practices in just a few lessons in [Git Best Practices and Adding a `.gitignore` File](https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/git-best-practices-and-adding-a-gitignore-file). In that lesson, we'll prompt you to make your first commit.
+**Do not make any commits or push your code just yet!** We will be learning some additional Git best practices in just a few lessons in [Git Best Practices and Adding a `.gitignore` File](https://new.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/git-best-practices-and-adding-a-gitignore-file). In that lesson, we'll prompt you to make your first commit.
 
 ## Project Structure
 ---

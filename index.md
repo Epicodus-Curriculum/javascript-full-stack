@@ -1,7 +1,7 @@
 ---
 title: Intermediate JavaScript
 id: index
-slug: /intermediate_javascript
+slug: /intermediate-javascript
 hide_table_of_contents: true
 sidebar_position: 0
 ---

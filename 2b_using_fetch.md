@@ -341,7 +341,7 @@ promise
   .catch(takeCareOfThatError)
 ```
 
-As we can see, putting each `.then()` on a newline makes our code easier to read. Finally, the catch block handles errors that occur anywhere inside this chain of promises. We will cover this process further in a future optional lesson on [chaining promises](https://www.learnhowtoprogram.com/intermediate-javascript/asynchrony-and-apis/further-exploration-chaining-promises).
+As we can see, putting each `.then()` on a newline makes our code easier to read. Finally, the catch block handles errors that occur anywhere inside this chain of promises. We will cover this process further in a future optional lesson on [chaining promises](https://new.learnhowtoprogram.com/intermediate-javascript/asynchrony-and-apis/further-exploration-chaining-promises).
 
 ## Final Thoughts
 ---
