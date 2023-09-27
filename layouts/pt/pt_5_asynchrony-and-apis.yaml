@@ -27,31 +27,6 @@ lessons:
     filename: 0f_parsing_json.md
     day: weekend
     type: lesson
-  - title: Making API Calls with JavaScript
-    filename: 0g_making_api_calls_with_javascript.md
-    day: weekend
-    type: lesson
-  - title: Protecting API Keys
-    filename: 0h_managing_api_keys.md
-    day: weekend
-    type: lesson
-  - title: Exception Handling for API Calls
-    filename: 0i_XHR_exception_handling.md
-    day: weekend
-    type: lesson
-  - title: The DevTools Network Tab
-    filename: 0j_devtools_network_tab.md
-    day: weekend
-    type: lesson
-  - title: JavaScript Exception Handling with try...catch
-    filename: 0k_exception_handling_in_javascript.md
-    day: weekend
-    type: lesson
-  - title: 'Team Week: Project Pitch'
-    filename: team_week_project_pitch.md
-    day: weekend
-    type: lesson
-    repo: shared-full-stack
   - title: 'Journal #6'
     filename: 1_week_six_journal_prompt.md
     day: weekend
@@ -59,73 +34,93 @@ lessons:
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: sunday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: 'Journal #6 Discussion'
     filename: 2_week_six_journal_discussion_classwork.md
-    day: sunday
+    day: monday
     type: exercise
     repo: career-services-full-stack
+  - title: 'Practicing APIs via Postman and the Developer Console'
+    filename: 0fa_classwork_api_practice_postman_devconsole.md
+    day: monday
+    type: exercise
+  - title: 'Homework: Making API Calls with JavaScript'
+    filename: 0g_making_api_calls_with_javascript.md
+    day: monday
+    type: lesson
+  - title: 'Homework: Protecting API Keys'
+    filename: 0h_managing_api_keys.md
+    day: monday
+    type: lesson
+  - title: 'Homework: Exception Handling for API Calls'
+    filename: 0i_XHR_exception_handling.md
+    day: monday
+    type: lesson
+  - title: 'Homework: The DevTools Network Tab'
+    filename: 0j_devtools_network_tab.md
+    day: monday
+    type: lesson
+  - title: 'Homework: JavaScript Exception Handling with try...catch'
+    filename: 0k_exception_handling_in_javascript.md
+    day: monday
+    type: lesson
   - title: OpenWeather API, Giphy API
     filename: 1a_classwork_open_weather_giphy_api.md
-    day: sunday
+    day: tuesday
+    type: exercise
+  - title: OpenWeather API, Giphy API - Part 2
+    filename: 1a_classwork_open_weather_giphy_api.md
+    day: wednesday
     type: exercise
   - title: Tools for Handling Async Code
     filename: 1b_tools_for_handling_async_code.md
-    day: sunday
+    day: wednesday
     type: lesson
   - title: Introduction to Promises
     filename: 1c_introduction_to_promises.md
-    day: sunday
+    day: wednesday
     type: lesson
   - title: Promises with API Calls
     filename: 1d_promises_with_api_calls.md
-    day: sunday
+    day: wednesday
     type: lesson
   - title: Static Methods and Properties
     filename: 1e_static_methods_and_properties.md
-    day: sunday
+    day: wednesday
     type: lesson
   - title: Separating Promise Logic
     filename: 1f_separating_promise_logic.md
-    day: sunday
+    day: wednesday
     type: lesson
   - title: SOP and CORS
     filename: 1g_cors.md
-    day: sunday
-    type: lesson
-  - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 1
-    filename: 2a_classwork_api_refactor_dino_ipsum.md
-    day: monday
-    type: exercise
-  - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 2
-    filename: 2a_classwork_api_refactor_dino_ipsum_2.md
-    day: tuesday
-    type: exercise
-  - title: API Refactor, Dino Ipsum (Three-Day Project) - Part 3
-    filename: 2a_classwork_api_refactor_dino_ipsum_3.md
     day: wednesday
+    type: lesson
+  - title: API Refactor, Dino Ipsum
+    filename: 2a_classwork_api_refactor_dino_ipsum.md
+    day: thursday
     type: exercise
   - title: Fetch API
     filename: 2b_using_fetch.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: Async and Await
     filename: 2c_async_and_await.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: 'Further Exploration: IIFEs'
     filename: 2d_further_exploration_iifes.md
-    day: wednesday
+    day: thursday
     type: lesson
   - title: 'Homework: Speaking Up'
     filename: 5_speaking_up.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: DEI-full-stack
   - title: 'Homework: Sprucing Up Your GitHub'
     filename: sprucing-up-your-github.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: career-services-full-stack

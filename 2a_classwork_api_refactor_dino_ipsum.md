@@ -21,7 +21,7 @@ Next, refactor one of the projects you worked on in the last class session to us
 
 ### Dino Ipsum API
 
-Use this API to allow your users to generate [dinosaur themed Lorem Ipsum](http://dinoipsum.herokuapp.com/#res). Use it any way you like. 
+Use this API to allow your users to generate [dinosaur themed Lorem Ipsum](https://dinoipsum.com/). Use it any way you like. 
 
 For instance, you could create a dinosaur-themed game where someone needs to guess the name of the dinosaur in 7 guesses. You could have users guess letter by letter, or by guessing whole words, like in [the game Wordle](https://wordplay.com/). 
 

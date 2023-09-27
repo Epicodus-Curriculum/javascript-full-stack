@@ -58,53 +58,57 @@ lessons:
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: sunday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: 'Journal #4 Discussion'
     filename: 2_week_four_journal_discussion_classwork.md
-    day: sunday
+    day: monday
     type: exercise
     repo: career-services-full-stack
   - title: Address Book, Places You've Been, To Do
     filename: 1a_classwork_address_book_places_youve_been_and_to_do.md
-    day: sunday
+    day: monday
     type: exercise
   - title: 'Address Book: User Interface'
     filename: 1b_address_book_user_interface.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Looping Through Objects and Prototypal Inheritance
     filename: 1c_looping_through_object_properties.md
-    day: sunday
+    day: monday
     type: lesson
   - title: 'Address Book: Adding Interactivity'
     filename: 1d_address_book_adding_interactivity.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Address Book, Movie Tickets, Bank Account - Part 1
     filename: 2a_classwork_address_book_movie_tickets_bank_account.md
-    day: monday
+    day: tuesday
     type: exercise
   - title: 'Address Book: Event Bubbling, Event Delegation, and the Event Object'
     filename: 1e_address_book_intro_to_event_delegation.md
-    day: monday
+    day: tuesday
     type: lesson
   - title: 'Address Book: Delete Functionality and Polish'
     filename: 1f_address_book_delete_functionality_and_polish.md
-    day: monday
+    day: tuesday
     type: lesson
+  - title: Address Book, Movie Tickets, Bank Account - Part 1
+    filename: 2a_classwork_address_book_movie_tickets_bank_account.md
+    day: wednesday
+    type: exercise
   - title: LinkedIn
     filename: 3_linkedin_classwork.md
-    day: wednesday
+    day: thursday
     type: exercise
     repo: career-services-full-stack
   - title: 'Homework: Imposter Syndrome'
     filename: 3_imposter_syndrome.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: DEI-full-stack
   - title: Introduction to the Node Object
     filename: 2b_introduction_to_the_node_object.md
-    day: wednesday
+    day: thursday
     type: lesson
