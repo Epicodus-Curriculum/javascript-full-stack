@@ -150,7 +150,7 @@ lessons:
     filename: 2a_classwork_test_it_out_sudoku_checker_project_euler.md
     day: thursday
     type: exercise
- - title: 'Homework: Introduction to ES6'
+  - title: 'Homework: Introduction to ES6'
     filename: 2b_introduction_to_es6.md
     day: thursday
     type: lesson
