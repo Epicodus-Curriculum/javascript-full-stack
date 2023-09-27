@@ -47,11 +47,6 @@ lessons:
     filename: 0k_exception_handling_in_javascript.md
     day: weekend
     type: lesson
-  - title: 'Team Week: Project Pitch'
-    filename: team_week_project_pitch.md
-    day: weekend
-    type: lesson
-    repo: shared-full-stack
   - title: 'Journal #6'
     filename: 1_week_six_journal_prompt.md
     day: weekend
