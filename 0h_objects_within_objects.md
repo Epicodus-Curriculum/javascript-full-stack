@@ -6,7 +6,7 @@ Note that we've worked with nested objects a lot already by using Web APIs. Reme
 > window.document;
 #document
 > window.location;
-Location {ancestorOrigins: DOMStringList, href: 'https://www.learnhowtoprogram.com/introduction-to-…/getting-started-at-epicodus/learn-how-to-program', origin: 'https://www.learnhowtoprogram.com', protocol: 'https:', host: 'www.learnhowtoprogram.com', …}
+Location {ancestorOrigins: DOMStringList, href: 'https://www.learnhowtoprogram.com/', origin: 'https://www.learnhowtoprogram.com', protocol: 'https:', host: 'www.learnhowtoprogram.com', …}
 > document.body;
 <body>...</body>
 ```
