@@ -1,7 +1,7 @@
 ---
 title: Intermediate JavaScript (Pre-October Cohorts)
 id: index
-slug: /intermediate-javascript-classic
+slug: /intermediate-javascript
 hide_table_of_contents: true
 sidebar_position: 0
 ---
