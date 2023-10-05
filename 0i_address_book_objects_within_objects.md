@@ -1,6 +1,6 @@
 In a real world application, we'd save our address book's `Contact`s in a database. However, we aren't working with databases yet. Instead, we'll create a mock database (a fake database) and store its data inside a global variable.
 
-As we discussed in [Variable Scope](/introduction-to-programming/javascript-and-web-browsers/variable-scope), we want to avoid global variables wherever possible. So why are we going to use one here?
+As we discussed in [Variable Scope](https://new.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/variable-scope), we want to avoid global variables wherever possible. So why are we going to use one here?
 
 Well, one of the biggest problems with global variables is that they never fall out of scope — and their values persist throughout an application. Generally, this is a recipe for bugs. However, we _want_ the values in a database to persist and be available all throughout an application. What is the point of a database if we can't retrieve data from it? That's why we're using a global variable here — to better imitate what a database actually does.
 
