@@ -82,7 +82,7 @@ lessons:
     filename: 1d_address_book_adding_interactivity.md
     day: monday
     type: lesson
-  - title: Address Book, Movie Tickets, Bank Account - Part 1
+  - title: Address Book, Movie Tickets, Bank Account
     filename: 2a_classwork_address_book_movie_tickets_bank_account.md
     day: tuesday
     type: exercise
@@ -94,12 +94,12 @@ lessons:
     filename: 1f_address_book_delete_functionality_and_polish.md
     day: tuesday
     type: lesson
-  - title: Address Book, Movie Tickets, Bank Account - Part 1
+  - title: Address Book, Movie Tickets, Bank Account
     filename: 2a_classwork_address_book_movie_tickets_bank_account.md
     day: wednesday
     type: exercise
-  - title: LinkedIn
-    filename: 3_linkedin_classwork.md
+  - title: 'Telling Your Story'
+    filename: 1_week_4_telling_your_story.md
     day: thursday
     type: exercise
     repo: career-services-full-stack
@@ -112,3 +112,8 @@ lessons:
     filename: 2b_introduction_to_the_node_object.md
     day: thursday
     type: lesson
+  # - title: LinkedIn
+  #   filename: 3_linkedin_classwork.md
+  #   day: thursday
+  #   type: exercise
+  #   repo: career-services-full-stack

@@ -171,7 +171,7 @@ lessons:
     filename: 2f_working_with_templates.md
     day: tuesday
     type: lesson
-  - title: Haiku Creator, RPG, Sudoku Solver (Two-Day Project) - Part 1
+  - title: Haiku Creator, RPG, Sudoku Solver (Two-Day Project)
     filename: 3a_classwork_haiku_creator_rpg_sudoku_solver.md
     day: wednesday
     type: exercise
@@ -187,7 +187,7 @@ lessons:
     filename: 3e_es6_maps_and_sets.md
     day: wednesday
     type: lesson
-  - title: Haiku Creator, RPG, Sudoku Solver (Two-Day Project) - Part 2
+  - title: Haiku Creator, RPG, Sudoku Solver (Two-Day Project)
     filename: 3a_classwork_haiku_creator_rpg_sudoku_solver_2.md
     day: thursday
     type: exercise

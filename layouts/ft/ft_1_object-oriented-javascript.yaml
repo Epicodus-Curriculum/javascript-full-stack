@@ -135,6 +135,11 @@ lessons:
     filename: 4a_classwork_whiteboard_practice_javascript_objects.md
     day: thursday
     type: exercise
+  - title: 'Telling Your Story'
+    filename: 1_week_4_telling_your_story.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
   - title: 'Developer Reality: Daily Team Meetings'
     filename: developer_reality_daily_team_meetings.md
     day: thursday

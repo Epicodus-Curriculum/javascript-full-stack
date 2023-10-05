@@ -107,7 +107,7 @@ lessons:
     filename: 2d_further_exploration_iifes.md
     day: tuesday
     type: lesson
-  - title: Bike Index, Cryptocurrency Analytics App, API of Choice (Two-Day Project) - Part 1
+  - title: Bike Index, Cryptocurrency Analytics App, API of Choice (Two-Day Project)
     filename: 3a_classwork_martian_weather_bike_index_two_day_project.md
     day: wednesday
     type: exercise
@@ -124,7 +124,7 @@ lessons:
     day: wednesday
     type: lesson
     repo: career-services-full-stack
-  - title: Bike Index, Cryptocurrency Analytics App, API of Choice (Two-Day Project) - Part 2
+  - title: Bike Index, Cryptocurrency Analytics App, API of Choice (Two-Day Project)
     filename: 3a_classwork_martian_weather_bike_index_two_day_project_2.md
     day: thursday
     type: exercise
@@ -132,6 +132,11 @@ lessons:
     filename: 4a_classwork_whiteboarding_practice_asynchrony.md
     day: thursday
     type: exercise
+  - title: 'Building a Compelling Portfolio'
+    filename: 1_week_6_building_a_compelling_portfolio.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
   - title: Asynchrony and APIs Independent Project
     filename: 5a_classwork_asynchrony_and_apis_independent_project.md
     day: friday

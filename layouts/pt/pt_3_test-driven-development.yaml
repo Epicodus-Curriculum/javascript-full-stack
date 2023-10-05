@@ -110,7 +110,7 @@ lessons:
     filename: 1c_red_green_refactor_workflow.md
     day: monday
     type: lesson
-  - title: webpack and npm Practice - Part 2
+  - title: webpack and npm Practice
     filename: 1a_classwork_webpack_and_npm_practice.md
     day: tuesday
     type: exercise

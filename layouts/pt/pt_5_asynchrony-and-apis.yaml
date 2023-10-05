@@ -70,7 +70,7 @@ lessons:
     filename: 1a_classwork_open_weather_giphy_api.md
     day: tuesday
     type: exercise
-  - title: OpenWeather API, Giphy API - Part 2
+  - title: OpenWeather API, Giphy API
     filename: 1a_classwork_open_weather_giphy_api.md
     day: wednesday
     type: exercise
@@ -102,6 +102,11 @@ lessons:
     filename: 2a_classwork_api_refactor_dino_ipsum.md
     day: thursday
     type: exercise
+  - title: 'Building a Compelling Portfolio'
+    filename: 1_week_6_building_a_compelling_portfolio.md
+    day: thursday
+    type: exercise
+    repo: career-services-full-stack
   - title: Fetch API
     filename: 2b_using_fetch.md
     day: thursday
