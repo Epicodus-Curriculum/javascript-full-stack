@@ -381,4 +381,4 @@ Later on in this course section, we'll continue to learn how to handle errors wi
 ---
 **[<i class="glyphicon glyphicon-folder-open"></i>  Example GitHub Repo for API Project](https://github.com/epicodus-lessons/section-6-js-api-call-with-webpack)**
 
-The above link takes you to a branch within a repo. Make sure that you are referencing the code from the branch called `1_xhr_api_call`. This is the default branch, so running `git clone...` with the URL of the repo home page will automatically clone down the branch called `1_xhr_api_call`. As needed, review the lesson on [accessing code from different branches](/intermediate-javascript/object-oriented-javascript/accessing-code-from-different-branches).
+The above link takes you to a branch within a repo. Make sure that you are referencing the code from the branch called `1_xhr_api_call`. This is the default branch, so running `git clone...` with the URL of the repo home page will automatically clone down the branch called `1_xhr_api_call`. As needed, review the lesson on [accessing code from different branches](/intermediate-javascript/object-oriented-javascript-part-2/accessing-code-from-different-branches).

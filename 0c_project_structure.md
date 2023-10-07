@@ -1,4 +1,4 @@
-Over the course of this section, we will build an application called **Shape Tracker** based on the [Triangle Tracker](/introduction-to-programming/javascript-and-web-browsers/practice-triangle-tracker) project from the Introduction to Programming course. There's a good chance you have a repo with your own triangle project, but even if you don't (or it's not working), don't worry. We will walk through the project step by step. 
+Over the course of this section, we will build an application called **Shape Tracker** based on the [Triangle Tracker](/introduction-to-programming/javascript-and-web-browsers-part-2/practice-triangle-tracker) project from the Introduction to Programming course. There's a good chance you have a repo with your own triangle project, but even if you don't (or it's not working), don't worry. We will walk through the project step by step. 
 
 This course section is not about learning JavaScript itself. While we will learn about some new JavaScript features, our main goal is learning how to use JavaScript libraries and external tools to build our projects. This is what we'll build, step by step:
 

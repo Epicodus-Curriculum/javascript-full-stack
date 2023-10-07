@@ -309,4 +309,4 @@ The following repository link includes all code in the `shape-tracker` project u
 ---
 **[<i class="glyphicon glyphicon-folder-open"></i>  Example GitHub Repo for Shape Tracker](https://github.com/epicodus-lessons/section-5-shape-tracker/tree/2_full_testing_with_jest)**
 
-Make sure to use the branch titled `2_full_testing_with_jest` as your point of reference. As needed, review the lesson on [accessing code from different branches](/intermediate-javascript/object-oriented-javascript/accessing-code-from-different-branches).
+Make sure to use the branch titled `2_full_testing_with_jest` as your point of reference. As needed, review the lesson on [accessing code from different branches](/intermediate-javascript/object-oriented-javascript-part-2/accessing-code-from-different-branches).

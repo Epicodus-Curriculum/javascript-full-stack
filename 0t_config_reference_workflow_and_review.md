@@ -19,7 +19,7 @@ We're providing a reference repository for the Shape Tracker project, which also
 ---
 **[<i class="glyphicon glyphicon-folder-open"></i>  Example GitHub Repo for Shape Tracker](https://github.com/epicodus-lessons/section-5-shape-tracker)**
 
-Make sure that you are referencing the code from the branch called `1_functioning_environment`. This is the default branch, so running `git clone...` with the URL of the repo homepage will automatically clone down the branch called `1_functioning_environment`. If you need a review on how to navigate between branches, review the lesson on [accessing code from different branches](/intermediate-javascript/object-oriented-javascript/accessing-code-from-different-branches). 
+Make sure that you are referencing the code from the branch called `1_functioning_environment`. This is the default branch, so running `git clone...` with the URL of the repo homepage will automatically clone down the branch called `1_functioning_environment`. If you need a review on how to navigate between branches, review the lesson on [accessing code from different branches](/intermediate-javascript/object-oriented-javascript-part-2/accessing-code-from-different-branches). 
 
 Once the repo is downloaded to your computer, you simply need to install packages in order to set it up. In the root of the Shape Tracker directory, run this command to install all packages listed in the `package.json`:
 

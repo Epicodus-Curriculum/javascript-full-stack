@@ -78,7 +78,7 @@ Here is the example response body from said API call.
 
 ```
 
-Before continuing through the exercise, you may want to refresh your knowledge on the weekend's lesson about [Parsing JSON](/intermediate-javascript-part-time/asynchrony-and-apis/parsing-json).
+Before continuing through the exercise, you may want to refresh your knowledge on the weekend's lesson about [Parsing JSON](/intermediate-javascript-part-time/asynchrony-and-apis-part-2/parsing-json).
 
 * Describe what the example JSON object contains in terms of information. How is the information formatted?
 * How is this JSON object different from a JavaScript object literal?
@@ -123,7 +123,7 @@ Error handling will be an integral part of the upcoming independent project, and
 * Create a new project directory named `JSON Practice`
   * Copy the response into a new file titled `responseBody.json` in the project directory and open it within VSCode.
   * What can you observe about the JSON object? What similarities do you notice between a JSON object and a JavaScript object? What differences are there?
-  * Read through [this previous lesson on JavaScript Objects](/intermediate-javascript-part-time/object-oriented-javascript/javascript-objects) and note with your pair the major differences and similarities between JSON objects and JavaScript Objects.
+  * Read through [this previous lesson on JavaScript Objects](/intermediate-javascript-part-time/object-oriented-javascript-part-2/javascript-objects) and note with your pair the major differences and similarities between JSON objects and JavaScript Objects.
 * Refresh your memory on how to access data within JavaScript objects.
 
 #### Part 3
