@@ -302,7 +302,7 @@ Good developers think through these problems, write tests for them, and then upd
 ## Next Steps
 ---
 
-**You will be expected to write thorough tests for the upcoming independent project.** The next lesson will cover testing best practices that we want you to implement in your practice projects in preparation for the independent project. Optionally, review the [TDD and Environments with JavaScript Independent Project](/intermediate-javascript/test-driven-development/tdd-and-environments-with-javascript-independent-project) lesson for a preview of expectations for the independent project. 
+**You will be expected to write thorough tests for the upcoming independent project.** The next lesson will cover testing best practices that we want you to implement in your practice projects in preparation for the independent project. Optionally, review the [TDD and Environments with JavaScript Independent Project](/intermediate-javascript/test-driven-development-and-environments-with-javascript-part-2/tdd-and-environments-with-javascript-independent-project) lesson for a preview of expectations for the independent project. 
 
 The following repository link includes all code in the `shape-tracker` project up to this point. It also includes several configuration updates that we'll be making in the next few lessons to add testing coverage and debugging.
 

@@ -5,7 +5,7 @@ sections:
   - pt_0_setting-up-javascript.yaml
   - pt_1_object-oriented-javascript.yaml
   - pt_2_object-oriented-javascript-part-2.yaml
-  - pt_3_test-driven-development.yaml
-  - pt_4_test-driven-development-part-2.yaml
+  - pt_3_test-driven-development-and-environments-with-javascript.yaml
+  - pt_4_test-driven-development-and-environments-with-javascript-part-2.yaml
   - pt_5_asynchrony-and-apis.yaml
   - pt_6_asynchrony-and-apis-part-2.yaml

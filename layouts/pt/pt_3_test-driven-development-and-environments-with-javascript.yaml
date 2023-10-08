@@ -1,7 +1,7 @@
-section: Test Driven Development
+section: Test Driven Development and Environments with JavaScript
 order: 4
 repo: javascript-full-stack
-directory: 5_test-driven-development
+directory: 5_test-driven-development-and-environments-with-javascript
 lessons:
   - title: Test Driven Development and Environments with JavaScript Objectives
     filename: 0a_test_driven_development_objectives.md
@@ -90,81 +90,81 @@ lessons:
     repo: career-services-full-stack
   - title: Prior Course Section Survey
     filename: course_section_survey.md
-    day: sunday
+    day: monday
     type: lesson
     repo: pre-work-full-stack
   - title: 'Journal #5 Discussion'
     filename: 2_week_five_journal_discussion_classwork.md
-    day: sunday
+    day: monday
     type: exercise
     repo: career-services-full-stack
   - title: webpack and npm Practice
     filename: 1a_classwork_webpack_and_npm_practice.md
-    day: sunday
+    day: monday
     type: exercise
   - title: TDD Review
     filename: 1b_tdd_review.md
-    day: sunday
+    day: monday
     type: lesson
   - title: Red Green Refactor Workflow
     filename: 1c_red_green_refactor_workflow.md
-    day: sunday
+    day: monday
     type: lesson
+  - title: webpack and npm Practice
+    filename: 1a_classwork_webpack_and_npm_practice.md
+    day: tuesday
+    type: exercise
   - title: Setting Up Jest
     filename: 1d_setting_up_jest.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: Setting Up Babel
     filename: 1e_setting_up_babel.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: 'TDD with Jest: Testing the Triangle() Constructor'
     filename: 1f_tdd_with_jest_triangle_constructor.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: 'TDD with Jest: Testing the Triangle.prototype.checkType() Method'
     filename: 1g_tdd_with_jest_checkType_method.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: Testing Best Practices
     filename: 1h_good_fails_and_bad_fails.md
-    day: sunday
+    day: tuesday
     type: lesson
   - title: Test It Out, Sudoku Checker, Project Euler
     filename: 2a_classwork_test_it_out_sudoku_checker_project_euler.md
-    day: monday
+    day: wednesday
     type: exercise
   - title: 'Expanding our Testing Tools: Adding Setup and Teardown'
     filename: 1i_setup_and_teardown.md
-    day: monday
+    day: wednesday
     type: lesson
   - title: 'Improving Test Reports: Adding Test Coverage Information'
     filename: 1j_adding_test_coverage_information.md
-    day: monday
+    day: wednesday
     type: lesson
   - title: Test It Out, Sudoku Checker, Project Euler
     filename: 2a_classwork_test_it_out_sudoku_checker_project_euler.md
-    day: tuesday
+    day: thursday
     type: exercise
-  - title: Introduction to ES6
+  - title: 'Homework: Introduction to ES6'
     filename: 2b_introduction_to_es6.md
-    day: wednesday
+    day: thursday
     type: lesson
-  - title: ES6 Classes
+  - title: 'Homework: ES6 Classes'
     filename: 2c_es6_classes.md
-    day: wednesday
+    day: thursday
     type: lesson
-  - title: Test It Out, Sudoku Checker, Project Euler
-    filename: 2a_classwork_test_it_out_sudoku_checker_project_euler.md
-    day: wednesday
-    type: exercise
   - title: 'Homework: Asking and Listening'
     filename: 4_asking_and_listening.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: DEI-full-stack
   - title: 'Homework: Meetups and Networking'
     filename: meetups-and-networking.md
-    day: wednesday
+    day: thursday
     type: lesson
     repo: career-services-full-stack
