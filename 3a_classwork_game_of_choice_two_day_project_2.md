@@ -76,7 +76,7 @@ board.gameOver(); // returns a boolean
 Give users the option to play the computer at one of two levels: easy or hard.
 
 * **Easy**:  Computer randomly selects squares.
-* **Hard**: Computer uses strategy (see strategy section in [Tic Tac Toe](http://en.wikipedia.org/wiki/Tic-tac-toe)).
+* **Hard**: Computer uses strategy (see strategy section in [Tic Tac Toe](http://en.wikipedia.org/wiki/Tic-tac-toe).
 
 
 ## Peer Code Review
