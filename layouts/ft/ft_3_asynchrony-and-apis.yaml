@@ -52,6 +52,12 @@ lessons:
     day: weekend
     type: lesson
     repo: career-services-full-stack
+    # Short week addition
+  - title: TDD and Environments with JavaScript Independent Project
+    filename: 5a_classwork_tdd_with_javascript_independent_project.md
+    day: monday
+    type: exercise
+    # Short week addition
   - title: Prior Course Section Survey
     filename: course_section_survey.md
     day: tuesday
