@@ -146,4 +146,4 @@ Here are some sample challenges to work on from [CoderByte](https://coderbyte.co
 
 * Check out [this video](https://youtu.be/XKu_SEDAykw) of two software engineers at Google performing a mock interview. Notice how the interviewee asks questions and makes a plan _before_ starting to write. Notice how he is _always_ communicating with the interviewer. At the 21:05 minute mark, the interview also recaps important parts of the process.
 
-* The articles [Rock Your Next Whiteboard Test](https://skillcrush.com/blog/rock-your-next-whiteboard-test/) by Debbie Chew and [How To Pass a Programming Interview](https://triplebyte.com/blog/how-to-pass-a-programming-interview) by Ammon Bartram are excellent resources to learn more about whiteboarding.
+* The articles [Rock Your Next Whiteboard Test](https://skillcrush.com/blog/rock-your-next-whiteboard-test/) by Debbie Chew and [How To Pass a Programming Interview](https://hackernoon.com/how-to-pass-a-programming-interview-57504817df3d) by Ammon Bartram are excellent resources to learn more about whiteboarding.

@@ -120,7 +120,7 @@ The `package.json` file contains all of the information about our project's meta
 
 When a package is installed with npm, the source code of the package, and any dependencies that package relies on, gets added to the `node_modules` folder. This reminds us of two terms:
 
-* A [**dependency**](https://nodejs.dev/learn/npm-dependencies-and-devdependencies) is any code that other code relies on for its functionality. We can install a package as a dependency in the projects we create, and those packages can have dependencies or their own.
+* A [**dependency**](https://nodejs.org/en/docs#dependencies) is any code that other code relies on for its functionality. We can install a package as a dependency in the projects we create, and those packages can have dependencies or their own.
 * A [**module**](https://docs.npmjs.com/about-packages-and-modules#about-modules) is any JS file or folder in the `node_modules` directory that can be loaded by npm into our projects. In simpler terms, a module is a unit of functionality.
 
 ### Workflow and Commands

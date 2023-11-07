@@ -102,7 +102,7 @@ As you might guess, this is a bad fail because we aren't testing anything yet. J
 
 ### Another Way to Run Jest
 
-Note that we can also run `jest` directly in the terminal to run our tests. To do this, we'll use [npx, which is node's package runner](https://nodejs.dev/learn/the-npx-nodejs-package-runner). In the root of any directory that has a `__tests__` folder with a test file within, we can run this command:
+Note that we can also run `jest` directly in the terminal to run our tests. To do this, we'll use [npx, which is node's package runner](https://www.npmjs.com/package/npx). In the root of any directory that has a `__tests__` folder with a test file within, we can run this command:
 
 ```shell
 $ npx jest@29.5.0
