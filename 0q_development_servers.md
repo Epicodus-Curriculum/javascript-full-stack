@@ -26,12 +26,11 @@ module.exports = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist')
   },
-  devServer: {                                  // new line
-    static: {                                   // new line
-      directory: path.join(__dirname, "dist"),  // new line
-    },                                          // new line
-  }                                             // new line                                              
-
+  devServer: { // new line
+    static: { // new line
+      directory: path.join(__dirname, "dist"), // new line
+    }, // new line
+  }, // new line                               
   ...
 
 };

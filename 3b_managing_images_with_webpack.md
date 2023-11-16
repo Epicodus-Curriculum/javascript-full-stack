@@ -25,7 +25,7 @@ Next, we need to configure webpack to use html-loader, as well as handle our ima
   test: /\.(gif|png|avif|jpe?g)$/,
   type: "asset/resource",
   generator: {
-    filename: "[name][ext]"
+    filename: "[name][ext]",
     publicPath: "assets/images/",
     outputPath: "assets/images/",
   },
