@@ -70,7 +70,7 @@ Because we've made a code update, we should verify that our tests still pass. An
 
 Because we are using a test-driven approach, our next step is to write a test. We'll start with a test for a `Rectangle` constructor:
 
-<div class="filename">src/rectangle.test.js</div>
+<div class="filename">__tests__/rectangle.test.js</div>
 
 ```js
 import Rectangle from '../src/js/rectangle.js';
