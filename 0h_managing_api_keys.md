@@ -49,7 +49,7 @@ We can add as many variables as we want (such as if we are working on a project 
 Next, we'll use a webpack plugin called `dotenv-webpack` to make our environmental variables available inside our application:
 
 ```shell
-$ npm install dotenv-webpack@2.0.0 --save-dev
+$ npm install dotenv-webpack@8.0.1 --save-dev
 ```
 
 Because it's a plugin, we need to first `require` it and then add it to the `plugins` array in `webpack.config.js`:
