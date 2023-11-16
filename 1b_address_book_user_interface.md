@@ -34,6 +34,7 @@ Next let's fill in each section. First we'll add links to our `<head>` section:
     rel="stylesheet" 
     integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" 
     crossorigin="anonymous">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
   <script src="js/scripts.js"></script>
   <title>Address Book</title>
 </head>
