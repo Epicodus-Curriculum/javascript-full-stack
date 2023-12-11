@@ -44,36 +44,36 @@ popularity: number
 
 ```
 dino1 = { 
-  name: Tyrannosaurus rex,
-  period: Mesozoic,
-  diet: carnivore,
+  name: "Tyrannosaurus rex",
+  period: "Mesozoic",
+  diet: "carnivore",
   walksOnFourLegs: false,
   yearDiscovered: 1902,
   popularity: 999
 }
 
 dino2 = { 
-  name: Brachiosaurus,
-  period: Jurassic,
-  diet: herbivore,
+  name: "Brachiosaurus",
+  period: "Jurassic",
+  diet: "herbivore",
   walksOnFourLegs: true,
   yearDiscovered: 1900,
   popularity: 959
 }
 
 dino3 = { 
-  name: Parasaurolophus,
-  period: Cretaceous,
-  diet: herbivore,
+  name: "Parasaurolophus",
+  period: "Cretaceous",
+  diet: "herbivore",
   walksOnFourLegs: true,
   yearDiscovered: 1922,
   popularity: 500
 }
 
 dino4 = { 
-  name: Stegosaurus,
-  period: Jurassic,
-  diet: herbivore,
+  name: "Stegosaurus",
+  period: "Jurassic",
+  diet: "herbivore",
   walksOnFourLegs: true,
   yearDiscovered: 1876,
   popularity: 903
