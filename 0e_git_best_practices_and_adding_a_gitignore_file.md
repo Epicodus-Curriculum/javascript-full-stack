@@ -11,7 +11,13 @@ A `.gitignore` file lists all of the files that are _local_ to a project that Gi
 
 **In order for a `.gitignore` file to work correctly, it _must_ be committed _before_ we commit (by accident) any code we don't want in our Git history.**
 
-Let's create a `.gitignore` file now and list a few files and folders in it. When file(s) or folder(s) are listed in the `.gitignore`, then that directs Git to ignore them when you make commits.
+Let's create a `.gitignore` file in the root of our project and list a few files and folders in it. 
+
+```shell
+$ touch .gitignore
+```
+
+When file(s) or folder(s) are listed in the `.gitignore`, then that directs Git to ignore them when you make commits.
 
 <div class="filename">.gitignore</div>
 
